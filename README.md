@@ -13,5 +13,6 @@
 
 ## Markdown синтаксис
 [Markdown синтаксис](https://ru.markdown.net.br/bazovyy-sintaksis/)
+[Markdown синтаксис с наглядными примерами (eng)](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 
 ## Test 
